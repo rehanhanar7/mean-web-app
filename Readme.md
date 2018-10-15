@@ -4,8 +4,6 @@ https://www.djamware.com/post/5a0673c880aca7739224ee21/mean-stack-angular-5-crud
 
 <div class="col-lg-12 col-md-12 col-sm-12">
 <div class="article-detail">
-<h1>MEAN Stack (Angular 5) CRUD Web Application Example</h1>
-<span class="list-date">by Didin J. on Nov 11, 2017</span>
 <img src="https://s3-ap-southeast-1.amazonaws.com/djamblog/article-111117105134.png" alt="MEAN Stack (Angular 5) CRUD Web Application Example" class="img-responsive padding-top">
 <blockquote><h2>Step by step tutorial on building MEAN Stack (Angular 5) Create-Read-Update-Delete (CRUD) Web Application from scratch using Angular CLI.</h2></blockquote>
 <div class="article-content"><p>Step by step tutorial on building MEAN Stack (Angular 5) Create-Read-Update-Delete (CRUD) Web Application from scratch using Angular CLI. As you know that Angular 5 has been launched a few days ago, we need to test out their feature especially with MEAN Stack. MEAN stands for MongoDB, Express, Angular, and Node.js. MongoDB and Express on Node.js environment used as backend and Angular 5 used as the front end. As the previous <a href="https://www.djamware.com/post/58cf4e1c80aca72df8d1cf7e/tutorial-building-crud-app-from-scratch-using-mean-stack-angular-2">tutorial</a> about MEAN stack, we will be wrapping Express and Angular 5 together. run as one server.</p>
