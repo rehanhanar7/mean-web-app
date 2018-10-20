@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize');
-const sequelize = new Sequelize('postgres://aws_db_user:rehan$123@aws-postgres-live.c8tjkjwkqaur.us-east-1.rds.amazonaws.com:5432/poc_live');
+const sequelize = new Sequelize('postgres://aws_db_user:********@**********:5432/poc_live');
 
 var employeemodel = require('../models/employee')(sequelize, Sequelize);
 
