@@ -1,0 +1,15 @@
+// {
+//   "development": {
+//     "username": "aws_db_user",
+//     "password": "*******",
+//     "database": "poc_live",
+//     "host": "*********",
+//     "dialect": "postgres"
+//   },
+//   "test": {
+//     
+//   },
+//   "production": {
+//     
+//   }
+// }
